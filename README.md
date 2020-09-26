@@ -65,3 +65,6 @@ elif (1 == 1):
 elif (1 == 1):
   print('1')
 '''
+
+Indentation
+A tab, or you can use 4 spaces. You MUST indent your code or it will not work. This is important in Python because that is how the interpreter interprets it.
