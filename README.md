@@ -1,4 +1,4 @@
-# CMPT 1105 If Statements
+# CMPT 1105 | If Statements
 
 The `if` statement is a boolean-comparison operation of a given input.
 
